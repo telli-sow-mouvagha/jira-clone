@@ -1,6 +1,6 @@
 # 🚀 Jira Clone
 
-> **⚠️ Statut :** En cours de développement (Phase 1 : Architecture & Setup)
+**⚠️ Statut :** En cours de développement (Phase 1 : Architecture & Setup)
 
 Un clone de l'application de gestion de projet Agile Jira, développé pour consolider les fondamentaux de l'architecture Front-End moderne et la gestion d'état. 
 
